@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="images/image.png" alt="ActOS" width="180">
+  <img src="images/image.png" alt="ActOS">
 </p>
 
 
-# ActOS
+<h1 align="center">
+  ActOS
+</h1>
 
 **AI-native operating system for robots.**
 
