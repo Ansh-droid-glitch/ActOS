@@ -9,7 +9,7 @@
 
 **AI-native operating system for robots.**
 
-ActOS is a modular robotics runtime designed to give AI agents a unified way to perceive, reason, and act across different types of robots — robotic arms, quadrupeds, humanoids, wheeled robots, and more.
+ActOS is a modular robotics runtime designed to give AI agents a unified way to perceive, reason, and act across different types of robots - robotic arms, quadrupeds, humanoids, wheeled robots, and more.
 
 The goal is simple:
 
@@ -267,4 +267,4 @@ The long-term goal of ActOS is to create a general-purpose **AI operating layer 
       ARM           QUADRUPED       HUMANOID
 ```
 
-**ActOS — AI that can act in the physical world.**
+**ActOS —- AI that can act in the physical world.**
